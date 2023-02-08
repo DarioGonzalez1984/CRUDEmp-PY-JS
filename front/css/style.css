@@ -1,0 +1,28 @@
+body {
+    background-color: skyblue;
+}
+table {
+    width:100%;       
+    border-collapse: collapse;
+  }
+
+#table-container {
+    width: 80%;
+    /* position: absolute; */
+    margin-left: auto;
+    margin-right: auto; 
+    background-color: white;
+}
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    background-color: white;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #ddd;
+    font-weight: bold;
+  }
+  
